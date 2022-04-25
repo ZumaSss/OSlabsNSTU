@@ -199,6 +199,9 @@ LRESULT CALLBACK SoftwareMainProcedure(HWND hWnd, UINT msg, WPARAM wp, LPARAM lp
 					hThread2 = CreateThread(NULL, 0, ThreadFunc2Mutex, NULL, 0, NULL);
 
 				}
+				
+				logThread1.clear();
+				logThread2.clear();
 			}
 			else
 				MessageBox(hWnd, L"Choose a radiobutton first!", L"Warning!", MB_OK);
