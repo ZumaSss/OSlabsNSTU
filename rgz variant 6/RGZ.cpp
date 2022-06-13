@@ -3,8 +3,8 @@
 #include "model.h"
 
 #define MAX_LOADSTRING              100
-#define OnButtonClickedCreate	    1
-#define OnButtonClickedExit		    2
+#define OnButtonClickedCreate	      1
+#define OnButtonClickedExit		      2
 #define OnButtonClickedTurnOn1      3
 #define OnButtonClickedTurnOn2      4
 #define OnButtonClickedTurnOn3      5
@@ -17,8 +17,8 @@
 #define OnButtonClickedTurnOff4     12
 #define OnButtonClickedTurnOff5     13
 #define OnButtonClickedTurnOff6     14
-#define OnButtonClickedAdd		    15
-#define timerTick				    16
+#define OnButtonClickedAdd		      15
+#define timerTick				            16
 
 HWND hEditControl1;
 HWND hEditControl2;
