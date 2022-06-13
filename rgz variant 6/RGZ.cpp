@@ -17,8 +17,8 @@
 #define OnButtonClickedTurnOff4     12
 #define OnButtonClickedTurnOff5     13
 #define OnButtonClickedTurnOff6     14
-#define OnButtonClickedAdd		      15
-#define timerTick				            16
+#define OnButtonClickedAdd          15
+#define timerTick                   16
 
 HWND hEditControl1;
 HWND hEditControl2;
