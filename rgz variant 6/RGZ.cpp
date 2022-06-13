@@ -3,8 +3,8 @@
 #include "model.h"
 
 #define MAX_LOADSTRING              100
-#define OnButtonClickedCreate	      1
-#define OnButtonClickedExit		      2
+#define OnButtonClickedCreate	   1
+#define OnButtonClickedExit		   2
 #define OnButtonClickedTurnOn1      3
 #define OnButtonClickedTurnOn2      4
 #define OnButtonClickedTurnOn3      5
